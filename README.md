@@ -2,7 +2,7 @@
 
 An interactive Tableau analysis of Formula 1 race data: **6,464 race records across 17 seasons**, covering driver performance, constructor championship trajectories, tyre strategy, Grand Prix hosts, podium achievements, and reliability (DNF) patterns.
 
-🔗 **Live Dashboard (Tableau Public):** <PASTE-TABLEAU-PUBLIC-LINK-HERE>
+🔗 **Live Dashboard (Tableau Public):** https://public.tableau.com/views/f1race_17935956456210/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 🎥 **Demo Video:** <PASTE-VIDEO-LINK-HERE>
 
 ![Dashboard preview](screenshots/dashboard.png)
